@@ -2,7 +2,7 @@
 
 
 
-## I'm a Developer, Gamer, and i love to make new projects!!
+##``` I'm a Developer, and to make new projects!!```
 
 - 💪 I just launched my first course: [MadACTeam][Est.2019]!
 - 💪 2022 Goals: Very Strong FIVEM AC MADAC
