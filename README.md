@@ -5,13 +5,12 @@
 ## I'm a Developer, Gamer, and i love to make new projects!!
 
 - 💪 I just launched my first course: [MadACTeam][Est.2019]!
-- ⚠  I’m looking to collaborate with other Team to developing
 - 💪 2022 Goals: Very Strong FIVEM AC MADAC
-- 🌹  I love to listen greek music ,
+
 
 ### Connect with me:
 
-💻Discord:Mad Hatter#0528
+💻Discord: ```Mad Hatter#0528```
 
 ### Languages and Tools:
 
