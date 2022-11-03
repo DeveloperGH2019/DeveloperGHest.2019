@@ -4,13 +4,13 @@
 
 ##``` I'm a Developer, and to make new projects!!```
 
-- 💪 I just launched my first course: [MadACTeam][Est.2019]!
-- 💪 2022 Goals: Very Strong FIVEM AC MADAC
+- 💪 I just launched my first course: [DEVGHACTeam][Est.2019]!
+- 💪 2023 Goals: Very Strong FIVEM AC DEVGHDAC
 
 
 ### Connect with me:
 
-💻Discord: ```Mad Hatter#0528```
+💻Discord: ```DeveloperGH#7374```
 
 ### Languages and Tools:
 
